@@ -6,14 +6,22 @@ Adapted from the Tiny-M Belted Z mod by @quasi (https://github.com/gsl12/Tiny-M/
 This was done in Tinkercad - so there is no proper CAD for it. I have below a few 3d views views of the assembly:
 
 a. Full Assembly view
+![alt text](https://github.com/ankurv2k6/voron_trident_belted_z/blob/main/images/full_assembly.png)
+
+The extrusions in blue are the additional ones to be added to support the z drives.
+
 
 b. Left Z Drive Detail View
-
+![alt text](https://github.com/ankurv2k6/voron_trident_belted_z/blob/main/images/z_drive_view_1.png)
+![alt text](https://github.com/ankurv2k6/voron_trident_belted_z/blob/main/images/z_drive_view_1.png)
 
 The front right will be a mirror of this. The back z drive is setup similarly but has a different mount.
 
 
 Additional / Replacement Components (Per Z Drive - multiply by 3 for the trident)
+
+Extrusions
+2x 2020 Extrusion 470mm long (for 350x350 build)
 
 Electronics
 Nema 17 48mm Motors - speced similarly to the Voron 2.4 z drive motors.
