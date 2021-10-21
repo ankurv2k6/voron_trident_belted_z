@@ -31,8 +31,11 @@ Nema 17 48mm Motors - speced similarly to the Voron 2.4 z drive motors.
 Motion 
 
 1x F695-2RS Bearing
+
 1x MF105-2RS Bearing
+
 1x 5mm shaft 78 mm - I recommend measuring for yourself
+
 1x 2GT Belt Loop (6mm wide) 188mm
 1x 2GT Open Belt LL-2GT-6 (9mm wide)
 1x 2GT 20T Pulley 9mm, 5mm Bore
