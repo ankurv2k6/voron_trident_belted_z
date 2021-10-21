@@ -21,24 +21,26 @@ The front right will be a mirror of this. The back z drive is setup similarly bu
 Additional / Replacement Components (Per Z Drive - multiply by 3 for the trident)
 
 Extrusions
+
 2x 2020 Extrusion 470mm long (for 350x350 build)
 
 Electronics
+
 Nema 17 48mm Motors - speced similarly to the Voron 2.4 z drive motors.
 
 Motion 
-1x F695-2RS Bearing 
-1x MF105-2RS Bearing 
-1x 5mm shaft 78 mm - I recommend measuring for yourself 
-1x 2GT Belt Loop (6mm wide) 188mm 
-1x 2GT Open Belt LL-2GT-6 (9mm wide) 
-1x 2GT 20T Pulley 9mm, 5mm Bore 
-1x 2GT 16T Pulley 6mm, 5mm bore 
-1x 2GT 80T Pulley 6mm, 5mm Bore 
+
+1x F695-2RS Bearing
+1x MF105-2RS Bearing
+1x 5mm shaft 78 mm - I recommend measuring for yourself
+1x 2GT Belt Loop (6mm wide) 188mm
+1x 2GT Open Belt LL-2GT-6 (9mm wide)
+1x 2GT 20T Pulley 9mm, 5mm Bore
+1x 2GT 16T Pulley 6mm, 5mm bore
+1x 2GT 80T Pulley 6mm, 5mm Bore
 1x 2GT 20T Toothed Idler 9mm, 5mm Bore 
 
 Hardware
-Xx 5x10x0.5 Shim Ring AliExpress Qty as necessary.
 M3x5x4 Heatset Inserts AliExpress
 M3 roll in T-nuts AliExpress
 M5 roll in T-nuts AliExpress
@@ -52,5 +54,3 @@ M3x8 SHCS (Belt Clamp Mounting)
 M5x30 BHCS (Idler Pulley)
 
 The above hardware is not a comprehensive list - i used whatever was needed at the time and did not keep track. Will catalogue this soon.
-
-
