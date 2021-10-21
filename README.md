@@ -13,7 +13,7 @@ The extrusions in blue are the additional ones to be added to support the z driv
 
 b. Left Z Drive Detail View
 ![alt text](https://github.com/ankurv2k6/voron_trident_belted_z/blob/main/images/z_drive_view_1.png)
-![alt text](https://github.com/ankurv2k6/voron_trident_belted_z/blob/main/images/z_drive_view_1.png)
+![alt text](https://github.com/ankurv2k6/voron_trident_belted_z/blob/main/images/z_drive_view_2.png)
 
 The front right will be a mirror of this. The back z drive is setup similarly but has a different mount.
 
